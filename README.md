@@ -1,1 +1,1 @@
-### Programming Assignment: Percolation
+### Programming Assignment
